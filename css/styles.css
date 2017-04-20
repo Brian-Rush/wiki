@@ -1,0 +1,9 @@
+#navbar > li {
+  display: inline-block;
+}
+
+li {
+  padding-right: 4px;
+  padding-left: 4px;
+
+}
