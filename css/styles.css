@@ -1,9 +1,28 @@
 #navbar > li {
   display: inline-block;
+  margin: 10px;
+  font-size: small;
 }
 
 li {
   padding-right: 4px;
   padding-left: 4px;
+}
 
+.sidetitle {
+  padding-top: 3px;
+
+}
+hr {
+  margin-top: 3px;
+  margin-bottom: 4px;
+  border: 0;
+  border-top: 1px solid #ddd;
+}
+
+#navlogo {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  max-width: 100%;
+  max-height: 100%;
 }
